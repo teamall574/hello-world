@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for Learning with anji is devops engineer</h1>
+    <h1>New user Register Learning with anji is devops engineer</h1>
     <p>Please fill this form to create the account.</p>
     <hr>
      
